@@ -3,7 +3,7 @@
 A modern, responsive task management application built with React, featuring dark mode support, API integration, and local storage persistence.
 You can access the app on this URL: https://my-task-manager-and-to-do-app.vercel.app/
 
-![Task Manager App Dark Mode](./Screenshot/Screenshot%202025-10-22%20082143.png)
+![Task Manager App Dark Mode](/screenshot/1.png)
 
 ## Features
 
@@ -15,22 +15,22 @@ You can access the app on this URL: https://my-task-manager-and-to-do-app.vercel
 ### 2. Dark/Light Theme
 Toggle between dark and light themes for comfortable viewing in any environment:
 
-![Theme Toggle](./Screenshot/Screenshot%202025-10-22%20082156.png)
-![Light Theme](./Screenshot/Screenshot%202025-10-22%20082220.png)
+![Theme Toggle](./screenshot/2.png)
+![Light Theme](./screenshot/3.png)
 
 ### 3. Task Management
 - Add, complete, and delete tasks
 - Tasks persist across page reloads using localStorage
 - Clean, intuitive interface for task operations
 
-![Task Management](./Screenshot/Screenshot%202025-10-22%20082244.png)
+![Task Management](./screenshot/4.png)
 
 ### 4. API Integration Demo
 - Demonstrates API integration with external data
 - Paginated display of posts
 - Loading states and error handling
 
-![API Integration](./Screenshot/Screenshot%202025-10-22%20082304.png)
+![API Integration](./screenshot/5.png)
 
 ### 5. Component Architecture
 - Reusable UI components (Button, Card, Layout)
@@ -41,27 +41,27 @@ Toggle between dark and light themes for comfortable viewing in any environment:
 Here's a visual tour of the application's key features:
 
 1. **Dark Mode Home Page**
-   ![Dark Mode Home](./Screenshot/Screenshot%202025-10-22%20082143.png)
+   ![Dark Mode Home](./screenshot/1.png)
    The application's home page in dark mode, showing the clean and modern interface.
 
 2. **Theme Toggle Functionality**
-   ![Theme Toggle](./Screenshot/Screenshot%202025-10-22%20082156.png)
+   ![Theme Toggle](./screenshot/2.png)
    The theme toggle button in action, allowing users to switch between dark and light modes.
 
 3. **Light Mode Interface**
-   ![Light Mode](./Screenshot/Screenshot%202025-10-22%20082220.png)
+   ![Light Mode](./screenshot/3.png)
    The application's interface in light mode, demonstrating the theme system's versatility.
 
 4. **Task Management Interface**
-   ![Task Manager](./Screenshot/Screenshot%202025-10-22%20082244.png)
+   ![Task Manager](./screenshot/4.png)
    The task management interface where users can add, complete, and delete tasks.
 
 5. **API Integration Demo**
-   ![API Demo](./Screenshot/Screenshot%202025-10-22%20082304.png)
+   ![API Demo](./screenshot/5.png)
    The API integration page showing fetched data with pagination.
 
 6. **Mobile Responsive Design**
-   ![Mobile View](./Screenshot/Screenshot%202025-10-22%20082322.png)
+   ![Mobile View](./screenshot/6.png)
    The application's responsive design adapting to mobile devices.
 
 ## Tech Stack
